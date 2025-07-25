@@ -1,0 +1,9 @@
+vpc-cidr-block = "10.0.0.0/16"
+vpc-name = "vpc-high-availibity"
+igw-name = "igw-high-availibility"
+web-subnet1-cidr = ["10.0.1.0/24" , "10.0.2.0/24"]
+web-subnet1-name = "web-subnet-1"
+web-subnet2-cidr = ["10.0.101.0/24" , "10.0.102.0/24"]
+web-subnet2-name = "web-subnet-2"
+az-1 = "ap-south-1a"
+az-2 = "ap-south-1b"
